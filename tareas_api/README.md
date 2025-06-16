@@ -1,5 +1,5 @@
 # Tareas API
-
+Manuel Romero 30322368
 Este proyecto es una API REST básica para la gestión de tareas utilizando Django y Django REST Framework.
 
 ## Instalación
